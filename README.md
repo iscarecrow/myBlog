@@ -4,7 +4,8 @@
 #### 工具篇
 - [webpack打包速度优化](https://github.com/iscarecrow/myBlog/blob/master/webpack%E6%89%93%E5%8C%85%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96.md)
 - [webpack打包经常遇到的问题](https://github.com/iscarecrow/myBlog/blob/master/webpack%E6%89%93%E5%8C%85%E7%BB%8F%E5%B8%B8%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98.md)
-- [如何使用gulp搭建打包,发布流程]()
+- [如何使用gulp搭建打包发布流程]()
+- [requireJs+gulp多页面打包实践]()
 
 
 #### 项目架构
