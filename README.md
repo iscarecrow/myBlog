@@ -4,13 +4,13 @@
 #### 工具篇
 - [webpack打包速度优化](https://github.com/iscarecrow/myBlog/blob/master/webpack%E6%89%93%E5%8C%85%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96.md)
 - [webpack打包经常遇到的问题](https://github.com/iscarecrow/myBlog/blob/master/webpack%E6%89%93%E5%8C%85%E7%BB%8F%E5%B8%B8%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98.md)
-- [如何使用gulp搭建打包发布流程]()
+- [如何使用gulp搭建打包发布流程](https://github.com/iscarecrow/myBlog/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8gulp%E6%90%AD%E5%BB%BA%E6%89%93%E5%8C%85%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B.md)
 - [requireJs+gulp多页面打包实践]()
 
 
 #### 项目架构
 - [angular大型应用开发目录结构及优点](https://github.com/iscarecrow/myBlog/blob/master/angular%E5%A4%A7%E5%9E%8B%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E7%9A%84%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.md)
-
+- [react+redux项目构建]()
 
 
 #### 产品设计及开发心得
@@ -24,4 +24,3 @@
 
 #### 项目demo
 - [cms工具，运营配置生成页面](https://github.com/iscarecrow/cms)
-- []
