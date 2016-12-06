@@ -1,4 +1,6 @@
 ### 如何使用gulp搭建打包发布流程
+[打包demo](https://github.com/iscarecrow/gulp-package-hugin-demo)
+PS:不包含第一步合并代码过程，此过程和开发环境选择有关
 
 #### 开发环境
 - requireJs
