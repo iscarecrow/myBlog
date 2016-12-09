@@ -36,8 +36,8 @@
 
 #### 3.devtool选择 [官网devtool](https://webpack.github.io/docs/configuration.html#devtool)
 表格3，4，5 cheap-module-eval-source-map>eval>soure-map (first build time),实际上根据官网描述 eval最优？？我的选择
-- 如果用于开发 `cheap-module-eval-source-map`
-- 如果用于打包 `eval`, 42.5s>50s
+- 如果用于开发 `cheap-module-eval-source-map`或者`eval`看需求
+- 如果用于打包 `source-map`, 包小
 
 
 
